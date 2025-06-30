@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name:ProjectImportTestProject
+  gitServerName: SomaIBM
+  gitUrl: https://github.com/Somasekhar-K-IBM
+  gitUsername: Somasekhar-K-IBM
+  gitBranch: main
